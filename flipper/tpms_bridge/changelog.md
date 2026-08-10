@@ -1,3 +1,8 @@
+v1.1:
+Clearer key hints on the list screen. The R:wake and L:auto hints now sit
+on the side of the key they name, and periodic waking is shown in the
+header as "wake" instead of a bare "W".
+
 v1.0:
 First release.
 
